@@ -1,0 +1,58 @@
+﻿  Application.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Test.cpp
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,32): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2988:  unrecognizable template declaration/definition
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2143:  syntax error: missing ',' before '&'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,30): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,36): error C2065:  'string': undeclared identifier
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C2923:  'std::pair': 'string' is not a valid template type argument for parameter '_Ty1'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): error C3861:  'name': identifier not found
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): error C3861:  'name': identifier not found
+  TestClearColor.cpp
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,32): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2988:  unrecognizable template declaration/definition
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2143:  syntax error: missing ',' before '&'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,30): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,36): error C2065:  'string': undeclared identifier
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C2923:  'std::pair': 'string' is not a valid template type argument for parameter '_Ty1'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): error C3861:  'name': identifier not found
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): error C3861:  'name': identifier not found
+  TestTexture2D.cpp
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,32): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,1): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2988:  unrecognizable template declaration/definition
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(27,38): error C2143:  syntax error: missing ',' before '&'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,30): error C2039:  'string': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\vector(19): message :  see declaration of 'std'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,36): error C2065:  'string': undeclared identifier
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C2923:  'std::pair': 'string' is not a valid template type argument for parameter '_Ty1'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(35,20): error C3203:  'pair': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): error C3861:  'name': identifier not found
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(29,40): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): error C3861:  'name': identifier not found
+  Texture.cpp
+  glm.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw_gl3.cpp
+  stb_image.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+  Generating Code...
+\\majkm\dev\OpenGL\OpenGL_25 - Creating a Texture Test in OpenGL\OpenGL\src\tests\Test.h(31,37): message :  This diagnostic occurred in the compiler generated function 'void test::TestMenu::RegisterTest(const int)'
